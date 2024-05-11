@@ -19,23 +19,12 @@
 
     /*
     (
-      name: "Student 1",
+      name: "Lamouchi bayrem",
       department: [Dept. of EE],
       organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
+      profile: "L-Bayrem",
     ),
-    (
-      name: "Student 2",
-      department: [Dept. of EE],
-      organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
-    ),
-    (
-      name: "Student 3",
-      department: [Dept. of EE],
-      organization: [ISET Bizerte --- Tunisia],
-      profile: "abc",
-    )
+   
   */
 
   )
@@ -73,7 +62,7 @@ julia> up() # Start server
 We can now open the browser and navigate to the link #highlight[#link("localhost:8000")[localhost:8000]]. We will get the graphical interface as in @fig:genie-webapp.
 
 #figure(
-	image("Images/Genie-sinewave.png", width: 100%),
+	image("Images/wave.png", width: 100%),
 	caption: "Genie -> Sine Wave",
 ) <fig:genie-webapp>
 
