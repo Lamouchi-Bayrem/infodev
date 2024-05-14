@@ -42,11 +42,11 @@ In this lab, you will create a basic web application using *Genie* framework in 
 
 #exo[Sine Wave Control][We provide the Julia and HTML codes to build and run a web app that allows us to control the amplitude and frequency of a sine wave. *Plotly* is used to plot the corresponding graph. We also added a slider to change the number of samples used to draw the figure. The latter setting permits to grasp the influence of sampling frequency on the look of our chart.]
 
-#let code=read("../Codes/web-app/app.jl")
+#let code=read("../Codes/web-app/app1.jl")
 #raw(code, lang: "julia")
 
 
-#let code=read("../Codes/web-app/app.jl.html")
+#let code=read("../Codes/web-app/app1.jl.html")
 #raw(code, lang: "html")
 
 ```zsh
